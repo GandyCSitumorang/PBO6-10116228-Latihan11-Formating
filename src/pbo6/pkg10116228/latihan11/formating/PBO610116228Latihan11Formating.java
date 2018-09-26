@@ -7,7 +7,13 @@ package pbo6.pkg10116228.latihan11.formating;
  
 /**
  *
- * @author Rizki Adam Kurniawan
+ * @author 
+ *  Dosen   : Rizki Adam Kurniawan
+ *  Nama    : Gandy Christian Situmorang
+ *  kelas   : PBO6
+ *  NIM     : 10116228
+ *  deskripsi program    : Program ini berisi program latihan Formating
+ *
  */
 public class PBO610116228Latihan11Formating {
 
